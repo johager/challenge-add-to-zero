@@ -1,3 +1,7 @@
+//
+// Given an array of numbers, console.log True if any two numbers in the array add to zero, otherwise log False.
+//
+
 // Starting array
 let array = [28, 43, -12, 30, 4, 0, 12]
 
